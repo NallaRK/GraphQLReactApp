@@ -1,2 +1,2 @@
 # GraphQLReactApp
-GraphQL, React, Apollo
+Node, mLab, GraphQL, React, Apollo
